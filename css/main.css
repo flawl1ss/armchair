@@ -229,3 +229,56 @@ body {
     text-decoration: none;
     color: #828282;
 }
+
+.footer__content {
+    padding-top: 52px;
+    padding-bottom: 52px;
+}
+
+.content__inner {
+    display: flex;
+}
+
+.footer__link {
+    margin-right: 20px;
+}
+
+.footer__number {
+    margin-right: 40px;
+}
+
+.footer__btn {
+    padding: 12px;
+    width: 170px;
+    background-color: transparent;
+    border-radius: 40px;
+    border: 2px #F13C6E solid;
+    cursor: pointer;
+    line-height: 16.41px;
+}
+
+.footer__links-wrapper {
+    margin-right: auto;
+}
+
+.footer__bottom {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #EFEFEF;
+}
+
+.bottom__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom__copyright {
+    color: #828282;
+    font-size: 12px;
+
+}
+
+.bottom__political {
+    color: #828282;
+    font-size: 12px;
+}
